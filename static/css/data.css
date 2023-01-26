@@ -1,0 +1,19 @@
+table, th, td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h3{
+    font-size: 30px;
+    font-weight: 500;
+}

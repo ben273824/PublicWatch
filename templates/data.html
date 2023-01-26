@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Public Watch - {{fname}} {{lname}} Trades</title>
+    <link rel="icon" type = "image/png" href = "../static/ScalesofJustice.png">
+    <link rel="stylesheet" href="../static/css/data.css">
+</head>
+<body>
+    <div class="header">
+        <h1>P</h1><h3>ublic</h3><h1>
+        <img id="loading" class="loading" src="../static/ScalesofJustice.gif"/>
+        </h1><h1>W</h1><h3>atch</h3>
+    </div>
+    <h4>{{fname}} {{lname}} trades from {{startDate}} to {{endDate}}</h4>
+    <a href={{url_for('home')}}>Go back</a>
+    <table>
+        <thead>
+            <td id="lname">Last Name</td>
+            <td id="fname">First Name</td>
+            <td id="transactiondate">Transaction Date</td>
+            <td id="owner">Owner</td>
+            <td id="ticker">Ticker</td>
+            <td id="assetname">Asset Name</td>
+            <td id="assettype">Asset Type</td>
+            <td id="transactiontype">Transaction Type</td>
+            <td id="amount">Amount</td>
+            <td id="comment">Comment</td>
+        </thead>
+        <tbody>
+            {% for i in range(length)%}
+            <tr>
+                <td id="lname">{{stocks["LastName"][i]}}</td>
+                <td id="fname">{{stocks["FirstName"][i]}}</td>
+                <td id="transactiondate">{{stocks["TransactionDate"][i]}}</td>
+                <td id="owner">{{stocks["Owner"][i]}}</td>
+                <td id="ticker">{{stocks["Ticker"][i]}}</td>
+                <td id="assetname">{{stocks["AssetName"][i]}}</td>
+                <td id="assettype">{{stocks["AssetType"][i]}}</td>
+                <td id="transactiontype">{{stocks["TransactionType"][i]}}</td>
+                <td id="amount">{{stocks["Amount"][i]}}</td>
+                <td id="comment">{{stocks["Comment"][i]}}</td>
+            </tr>
+        {%endfor%}
+        </tbody>
+    </table>
+</body>
+</html>

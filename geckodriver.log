@@ -1,0 +1,666 @@
+1674412827882	geckodriver	INFO	Listening on 127.0.0.1:55284
+1674412830960	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilem8sjes"
+1674412831310	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674412831316	Marionette	INFO	Listening on port 55296
+Read port: 55296
+1674412831521	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilem8sjes\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 7129 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 4431 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 6826 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 7135 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 408 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 4433 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674412962478	geckodriver	INFO	Listening on 127.0.0.1:55577
+1674412965550	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileUPFxUN"
+*** You are running in headless mode.
+1674412965768	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674412965770	Marionette	INFO	Listening on port 55588
+Read port: 55588
+1674412965829	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileUPFxUN\\search.json.mozlz4", (void 0)))
+1674412976594	geckodriver	INFO	Listening on 127.0.0.1:55726
+1674412979685	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileSXNtpk"
+*** You are running in headless mode.
+1674412979874	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674412979876	Marionette	INFO	Listening on port 55738
+Read port: 55738
+1674412979935	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileSXNtpk\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 1434 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674412984240	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 5778 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://z.moatads.com/openxvideo114183407631/moatvideo.js#_moatApi20327074, line 244: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 581 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 2384 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 6958 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 646 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 6700 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 4281 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 2287 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 6009 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 5715 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 5047 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 3437 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674412999983	Marionette	INFO	Stopped listening on port 55738
+Dynamically enable window occlusion 1
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674413000093	Marionette	WARN	No reply from parent process
+1674413000095	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413000106	Marionette	WARN	No reply from parent process
+1674413000106	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413000118	Marionette	WARN	No reply from parent process
+1674413000118	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413065254	geckodriver	INFO	Listening on 127.0.0.1:56055
+1674413068312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileEQewgM"
+*** You are running in headless mode.
+1674413068535	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674413068538	Marionette	INFO	Listening on port 56065
+Read port: 56065
+1674413068722	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileEQewgM\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674413088790	Marionette	INFO	Stopped listening on port 56065
+Dynamically enable window occlusion 1
+1674413146969	geckodriver	INFO	Listening on 127.0.0.1:56152
+1674413150043	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofile0UVhHM"
+*** You are running in headless mode.
+1674413150256	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674413150258	Marionette	INFO	Listening on port 56162
+Read port: 56162
+1674413150321	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofile0UVhHM\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674413170160	Marionette	INFO	Stopped listening on port 56162
+Dynamically enable window occlusion 1
+1674413456902	geckodriver	INFO	Listening on 127.0.0.1:56297
+1674413459969	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilefYaRR1"
+1674413460312	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674413460316	Marionette	INFO	Listening on port 56308
+Read port: 56308
+1674413460552	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilefYaRR1\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 6684 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 353 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 2131 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 1717 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 3422 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 3402 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 4826 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 6291 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413486028	Marionette	INFO	Stopped listening on port 56308
+Dynamically enable window occlusion 1
+1674413486265	Marionette	WARN	No reply from parent process
+1674413486268	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413486277	Marionette	WARN	No reply from parent process
+1674413486277	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside-20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413486296	Marionette	WARN	No reply from parent process
+1674413486296	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside-20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413519360	geckodriver	INFO	Listening on 127.0.0.1:56547
+1674413522429	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileiEf31j"
+1674413522769	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674413522773	Marionette	INFO	Listening on port 56559
+Read port: 56559
+1674413522979	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileiEf31j\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 3019 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 2902 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 6291 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 24 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 4623 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_231_3_0/ebHtml5Banner.js, line 147: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 4485 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside-20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 7120 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 2879 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 1496 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 1193 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 3467 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 6890 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 1274 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 2121 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413547089	Marionette	INFO	Stopped listening on port 56559
+Dynamically enable window occlusion 1
+[GFX1-]: Failed to read event type: 18
+[GFX1]: RenderDXGITextureHost AcquireSync timeout, hr=0x102
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+1674413698739	geckodriver	INFO	Listening on 127.0.0.1:56959
+1674413701813	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--width=1920" "--height=1080" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileOoyPmT"
+*** You are running in headless mode.
+1674413702056	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674413702059	Marionette	INFO	Listening on port 56971
+Read port: 56971
+1674413702217	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileOoyPmT\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 6853 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 4878 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 1916 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 4539 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 5163 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 4793 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 720 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 715 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 154 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 846 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 5364 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 4822 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 6345 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 2159 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 3197 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413740792	Marionette	INFO	Stopped listening on port 56971
+Dynamically enable window occlusion 1
+1674413740959	Marionette	WARN	No reply from parent process
+1674413740960	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413740974	Marionette	WARN	No reply from parent process
+1674413740974	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413740995	Marionette	WARN	No reply from parent process
+1674413740995	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413799262	geckodriver	INFO	Listening on 127.0.0.1:57304
+1674413802337	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--width=1920" "--height=1080" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileqMeBvx"
+*** You are running in headless mode.
+1674413802575	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674413802578	Marionette	INFO	Listening on port 57316
+Read port: 57316
+1674413802734	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileqMeBvx\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 5228 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 99 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 1492 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 3276 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 7466 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 3115 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 604 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 2207 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 986 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 1464 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 1735 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413826473	Marionette	INFO	Stopped listening on port 57316
+Dynamically enable window occlusion 1
+1674413826611	Marionette	WARN	No reply from parent process
+1674413826612	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413826619	Marionette	WARN	No reply from parent process
+1674413826619	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413826627	Marionette	WARN	No reply from parent process
+1674413826627	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413858724	geckodriver	INFO	Listening on 127.0.0.1:57599
+1674413861798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--width=1920" "--height=1080" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileUMkwY7"
+*** You are running in headless mode.
+1674413862038	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674413862041	Marionette	INFO	Listening on port 57610
+Read port: 57610
+1674413862198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileUMkwY7\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 3260 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413866112	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://z.moatads.com/openxvideo114183407631/moatvideo.js#_moatApi4895948, line 244: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/JwRg8GnJRbSbwgtubA3x1Twn6jgCPCxSQn9TsX0K1wE.js line 2 > eval line 6806 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://secure-ds.serving-sys.com/BurstingCachedScripts//Ad_2_231_3_0/ebHtml5Banner.js, line 147: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 7489 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 1786 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside-20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 6411 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 6328 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 2436 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 1804 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413886822	Marionette	INFO	Stopped listening on port 57610
+Dynamically enable window occlusion 1
+1674413886944	Marionette	WARN	No reply from parent process
+1674413886946	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside-20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413886991	Marionette	WARN	No reply from parent process
+1674413886991	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside-20.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413887010	Marionette	WARN	No reply from parent process
+1674413887010	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413972878	geckodriver	INFO	Listening on 127.0.0.1:57908
+1674413975943	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "--width=1920" "--height=1080" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileOgRA2M"
+*** You are running in headless mode.
+1674413976134	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674413976137	Marionette	INFO	Listening on port 57925
+Read port: 57925
+1674413976198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileOgRA2M\\search.json.mozlz4", (void 0)))
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 7189 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 7636 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 3850 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 5241 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 4479 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 3404 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 6781 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 1865 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 518 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 3419 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 5149 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/OU_aD-3-G2pcaJqwlUagl315JVS_daCE4k47Wxj7Xso.js line 2 > eval line 2014 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript error: , line 0: uncaught exception: 7
+JavaScript warning: https://pagead2.googlesyndication.com/bg/sU6CjPDj0xr2jbZF4y7IwEoRNSn0ddnQS8nRuvxnxiY.js line 2 > eval line 5497 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413998196	Marionette	INFO	Stopped listening on port 57925
+Dynamically enable window occlusion 1
+1674413998332	Marionette	WARN	No reply from parent process
+1674413998333	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413998393	Marionette	WARN	No reply from parent process
+1674413998393	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413998404	Marionette	WARN	No reply from parent process
+1674413998404	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/rq/iv/inside.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674413998417	Marionette	WARN	No reply from parent process
+1674413998417	RemoteAgent	WARN	No reply from parent process
+JavaScript warning: https://cdn.js7k.com/ix/talon-1.0.40.js, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1674414108350	geckodriver	INFO	Listening on 127.0.0.1:58225
+1674414111432	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofile7ZO3Tz"
+*** You are running in headless mode.
+1674414111688	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674414111690	Marionette	INFO	Listening on port 58235
+Read port: 58235
+1674414111855	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofile7ZO3Tz\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
+1:58395
+1674414342702	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofile4W4mVU"
+1674414342958	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674414342962	Marionette	INFO	Listening on port 58405
+Read port: 58405
+1674414343138	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofile4W4mVU\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674414621689	Marionette	INFO	Stopped listening on port 58405
+Dynamically enable window occlusion 1
+1674694092467	geckodriver	INFO	Listening on 127.0.0.1:60646
+1674694095575	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilebGXrmV"
+1674694095898	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674694095902	Marionette	INFO	Listening on port 60656
+Read port: 60656
+1674694096197	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilebGXrmV\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674694104162	Marionette	INFO	Stopped listening on port 60656
+Dynamically enable window occlusion 1
+JavaScript error: chrome://remote/content/marionette/cert.sys.mjs, line 51: NS_ERROR_NOT_AVAILABLE: Component returned failure code: 0x80040111 (NS_ERROR_NOT_AVAILABLE) [nsICertOverrideService.setDisableAllSecurityChecksAndLetAttackersInterceptMyData]
+1674694162056	geckodriver	INFO	Listening on 127.0.0.1:60734
+1674694165142	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileWN7Hd2"
+*** You are running in headless mode.
+1674694165407	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674694165409	Marionette	INFO	Listening on port 60744
+Read port: 60744
+1674694165574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileWN7Hd2\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674694182667	Marionette	INFO	Stopped listening on port 60744
+Dynamically enable window occlusion 1
+1674694273327	geckodriver	INFO	Listening on 127.0.0.1:60854
+1674694276424	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilejamLqj"
+*** You are running in headless mode.
+1674694276667	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674694276669	Marionette	INFO	Listening on port 60865
+Read port: 60865
+1674694276834	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilejamLqj\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674694294112	Marionette	INFO	Stopped listening on port 60865
+Dynamically enable window occlusion 1
+1674695107659	geckodriver	INFO	Listening on 127.0.0.1:61511
+1674695110732	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileIc5U7P"
+*** You are running in headless mode.
+1674695110943	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674695110946	Marionette	INFO	Listening on port 61524
+Read port: 61524
+1674695111011	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileIc5U7P\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674695128929	Marionette	INFO	Stopped listening on port 61524
+Dynamically enable window occlusion 1
+1674695186918	geckodriver	INFO	Listening on 127.0.0.1:61647
+1674695190002	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileXbLLtX"
+*** You are running in headless mode.
+1674695190265	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674695190268	Marionette	INFO	Listening on port 61657
+Read port: 61657
+1674695190429	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileXbLLtX\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674695208222	Marionette	INFO	Stopped listening on port 61657
+Dynamically enable window occlusion 1
+ng command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilePGVH9G"
+*** You are running in headless mode.
+1674695196856	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674695196858	Marionette	INFO	Listening on port 61720
+Read port: 61720
+1674695197025	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilePGVH9G\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674695214359	Marionette	INFO	Stopped listening on port 61720
+Dynamically enable window occlusion 1
+1674695402827	geckodriver	INFO	Listening on 127.0.0.1:61880
+1674695405917	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilewoC1tP"
+*** You are running in headless mode.
+1674695406150	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674695406153	Marionette	INFO	Listening on port 61893
+Read port: 61893
+1674695406320	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilewoC1tP\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674695423343	Marionette	INFO	Stopped listening on port 61893
+Dynamically enable window occlusion 1
+1674695665265	geckodriver	INFO	Listening on 127.0.0.1:62058
+1674695668336	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilegJh6hR"
+*** You are running in headless mode.
+1674695668555	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674695668558	Marionette	INFO	Listening on port 62068
+Read port: 62068
+1674695668620	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilegJh6hR\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674695685780	Marionette	INFO	Stopped listening on port 62068
+Dynamically enable window occlusion 1
+1674695731234	geckodriver	INFO	Listening on 127.0.0.1:62145
+1674695734318	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilekFIXds"
+*** You are running in headless mode.
+1674695734547	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674695734549	Marionette	INFO	Listening on port 62155
+Read port: 62155
+1674695734610	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilekFIXds\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674695742588	Marionette	INFO	Stopped listening on port 62155
+Dynamically enable window occlusion 1
+1674695812715	geckodriver	INFO	Listening on 127.0.0.1:62275
+1674695815789	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofile3QzJKk"
+*** You are running in headless mode.
+1674695815988	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674695815990	Marionette	INFO	Listening on port 62285
+Read port: 62285
+1674695816052	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofile3QzJKk\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674695842365	Marionette	INFO	Stopped listening on port 62285
+Dynamically enable window occlusion 1
+1674696292228	geckodriver	INFO	Listening on 127.0.0.1:62655
+1674696295313	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileb0x1oE"
+*** You are running in headless mode.
+1674696295533	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674696295536	Marionette	INFO	Listening on port 62665
+Read port: 62665
+1674696295704	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileb0x1oE\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674696305868	Marionette	INFO	Stopped listening on port 62665
+Dynamically enable window occlusion 1
+1674696396530	geckodriver	INFO	Listening on 127.0.0.1:62813
+1674696399612	mozrunner::runner	INFO	Running command: "C:\\P1674696399628	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\*** You are running in headless mode.
+1674696399857	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674696399860	Marionette	INFO	Listening on port 62835
+Read port: 62835
+1674696400040	RemoteAgent	WARN	TLS certificate errors will b1674696400042	RemoteAgent	WA[GFX1-]: RenderCompositorSWGL failed mapping default framebu[GFX1-]: Rendconsole.warn: SearchSettings: "get: No settings file exists,console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\
+console.warn: LoginRecipes: "Falling back to a synchronous mconsole.warn: LoginRecipes: "Falling back toconsole.warn: LoginRecipes: "Falling back to a synchronous mconsole.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674696456753	geckodriver	INFO	Listening on 127.0.0.1:62977
+1674696459822	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofiler86Mcg"
+*** You are running in headless mode.
+1674696460050	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674696460053	Marionette	INFO	Listening on port 62987
+Read port: 62987
+1674696460218	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofiler86Mcg\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674696470405	Marionette	INFO	Stopped listening on port 62987
+Dynamically enable window occlusion 1
+1674696530730	geckodriver	INFO	Listening on 127.0.0.1:63096
+1674696533812	mozrunner::runner	INFO	Running command: "C:\\P1674696536804	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofile5GWwbO"
+*** You are running in headless mode.
+1674696537039	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674696537042	Marionette	INFO	Listening on port 63171
+Read port: 63171
+1674696537225	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofile5GWwbO\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674696546111	geckodriver	INFO	Listening on 127.0.0.1:63238
+1674696549175	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofiletzjqa4"
+*** You are running in headless mode.
+1674696549409	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674696549413	Marionette	INFO	Listening on port 63252
+Read port: 63252
+1674696549586	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofiletzjqa4\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous m1674696554235	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofile3J4QZR"
+*** You are running in headless mode.
+1674696554430	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674696554433	Marionette	INFO	Listening on port 63314
+Read port: 63314
+1674696554495	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofile3J4QZR\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674696651883	geckodriver	INFO	Listening on 127.0.0.1:63496
+1674696654977	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileqaY61Q"
+*** You are running in headless mode.
+1674696655258	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674696655261	Marionette	INFO	Listening on port 63506
+Read port: 63506
+1674696655436	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileqaY61Q\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674696665808	Marionette	INFO	Stopped listening on port 63506
+Dynamically enable window occlusion 1
+1674696795073	geckodriver	INFO	Listening on 127.0.0.1:63862
+1674696798147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileFtaIMt"
+*** You are running in headless mode.
+1674696798396	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674696798399	Marionette	INFO	Listening on port 63880
+Read port: 63880
+1674696798592	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileFtaIMt\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674696808904	Marionette	INFO	Stopped listening on port 63880
+Dynamically enable window occlusion 1
+1674697560754	geckodriver	INFO	Listening on 127.0.0.1:64892
+1674697563851	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileOiAyrh"
+*** You are running in headless mode.
+1674697564097	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674697564100	Marionette	INFO	Listening on port 64902
+Read port: 64902
+1674697564273	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileOiAyrh\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674697845454	geckodriver	INFO	Listening on 127.0.0.1:65253
+1674697848530	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilevWlmvC"
+*** You are running in headless mode.
+1674697848814	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674697848817	Marionette	INFO	Listening on port 65266
+Read port: 65266
+1674697848888	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilevWlmvC\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674697859201	Marionette	INFO	Stopped listening on port 65266
+Dynamically enable window occlusion 1
+1674698065329	geckodriver	INFO	Listening on 127.0.0.1:49156
+1674698068402	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofiletgjFpS"
+*** You are running in headless mode.
+1674698068659	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674698068662	Marionette	INFO	Listening on port 49166
+Read port: 49166
+1674698068838	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofiletgjFpS\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674698128234	geckodriver	INFO	Listening on 127.0.0.1:49221
+1674698131277	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilegMvMJK"
+*** You are running in headless mode.
+1674698131493	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674698131496	Marionette	INFO	Listening on port 49231
+Read port: 49231
+1674698131559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofilegMvMJK\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674698150735	Marionette	INFO	Stopped listening on port 49231
+Dynamically enable window occlusion 1

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Public Watch</title>
+    <link rel="icon" type = "image/png" href = "../static/ScalesofJustice.png">
+    <link rel="stylesheet" href="../static/css/index.css">
+    <script src="https://kit.fontawesome.com/da2666718a.js" crossorigin="anonymous"></script>
+    <script src="../static/js/index.js" defer></script>
+</head>
+<body>
+    <div class="header">
+        <h1>P</h1><h3>ublic</h3><h1>
+        <img id="loading" class="loading" src="../static/ScalesofJustice.gif"/>
+        </h1><h1>W</h1><h3>atch</h3>
+    </div>
+    <div class="page">
+        <form method="POST">
+            <label for="fname">First Name:</label>
+            <input type="text" id="fname" name="fname" class="field" placeholder="Congressperson first name..">
+            <br>
+            <label for="lname">Last Name:</label>
+            <input type="text" id="lname" name="lname" class="field" placeholder="Congressperson last name..">
+            <br>
+            <label for="startDate">Start:</label>
+            <input type="date" id="startDate" name="startDate" class="field">
+            <br>
+            <label for="endDate">End:</label>
+            <input type="date" id="endDate" name="endDate" class="field">
+            <br>
+            <input type="submit" value="Submit">
+        </form>
+        <br>
+    </div>
+    <p>Note: Request may take a few minutes to process.</p>
+    <br>
+    {%if submit%}
+        <a class="data" id="data" href="/data">Go to Data</a>
+    {%endif%}
+    <div id="sideBar" class="sideBar">
+        <a  href="javascript:void(0);" class="close" 
+        onclick="closeSideBar()">&times;</a>
+        <a></a>
+        <a href="/">Methodology</a>
+        <a href={{url_for('sources')}}>Sources</a>
+    </div>
+
+    <i class="fa-solid fa-bars menu"
+    onclick="openSideBar()"></i>
+</body>
+</html>

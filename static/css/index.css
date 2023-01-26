@@ -1,0 +1,107 @@
+
+.sideBar{
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: black;
+    overflow-x: hidden;
+    padding-top: 50px;
+    transition: 0.5s;
+}
+
+.sideBar a {
+    padding: 5px 5px 5px 50px;
+    text-decoration: none;
+    font-size: 25px;
+    color: gray;
+    display: block;
+    transition: 0.5s;
+}
+
+.sideBar a:hover{
+    color: white;
+}
+
+.sideBar a i{
+    font-size: 30px;
+    position: absolute;
+    bottom: 100px
+}
+
+
+
+.menu{
+    position: absolute;
+    top: 48px;
+    right: 30px;
+    font-size: 20px;
+    color: gray;
+    transition: 0.5s;
+}
+
+.menu:hover{
+    color: black;
+    cursor: pointer
+}
+
+.sideBar .close{
+    position: absolute;
+    top: 35px;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+    padding: 0 0 0 0;
+}
+
+.header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+h1{
+    font-size: 40px;
+}
+
+h3{
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.field{
+    padding: 4px 4px 4px 4px;
+    transition: 0.2s;
+    border-color: black;
+    border-width: 1px;
+    border-radius: 4px;
+}
+
+.field:focus{
+    border-color: red;
+}
+
+input[type=submit]{
+    width:100px;
+    transition: 0.5s;
+    border:none;
+    border-radius: 7px;
+}
+
+input[type=submit]:hover{
+    background-color: slategrey;
+    color:aqua;
+    cursor: pointer;
+}
+
+.page{
+    display: flex;
+    justify-content: center;
+}
+
+.data{
+    display: flex;
+    justify-content: center;
+}
