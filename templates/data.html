@@ -42,6 +42,9 @@
                 <td id="transactiontype">{{stocks["TransactionType"][i]}}</td>
                 <td id="amount">{{stocks["Amount"][i]}}</td>
                 <td id="comment">{{stocks["Comment"][i]}}</td>
+                {% if stocks["Ticker"][i] != "--"%}
+                    <td><button id="".format({{i}})>Analyze</button></td>
+                {%endif%}
             </tr>
         {%endfor%}
         </tbody>

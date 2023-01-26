@@ -664,3 +664,17 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: https://
 console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
 1674698150735	Marionette	INFO	Stopped listening on port 49231
 Dynamically enable window occlusion 1
+1674699091287	geckodriver	INFO	Listening on 127.0.0.1:49627
+1674699094351	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-no-remote" "-profile" "C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileB52CVy"
+*** You are running in headless mode.
+1674699094592	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1674699094595	Marionette	INFO	Listening on port 49637
+Read port: 49637
+1674699094779	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\klick\\AppData\\Local\\Temp\\rust_mozprofileB52CVy\\search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://efdsearch.senate.gov."
+1674699121772	Marionette	INFO	Stopped listening on port 49637
+Dynamically enable window occlusion 1
