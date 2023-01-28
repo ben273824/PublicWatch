@@ -1,6 +1,8 @@
-from flask import Flask, render_template, request, session, redirect, url_for
+from flask import Flask, render_template, request, session, redirect, url_for, jsonify
 from SenateStocks import getTrades
+from yahooFinance import analyzeTrade
 import pandas as pd
+import json
 
 app = Flask(__name__, template_folder="templates", static_folder="static")
 
@@ -38,6 +40,23 @@ def data():
         fname = session["fname"], lname=session["lname"], stocks=pd.read_json(session["stocks"]), length=session["length"])
     else:
         return redirect(url_for("home"))
+
+@app.route("/analysis/<i>")
+def analysis(i):
+    i = int(i)
+    stocks = pd.read_json(session["stocks"])
+    year = stocks["TransactionDate"][i][-4:]
+    month = stocks["TransactionDate"][i][:2]
+    day = stocks["TransactionDate"][i][3:5]
+    ticker = stocks["Ticker"][i]
+    summary, x, y = analyzeTrade(year, month, day, ticker)
+    data = []
+    for i in range(len(y)):
+        dict = {"x":i, "y":y.iloc[i]}
+        data.append(dict)
+    return render_template("analysis.html", points=data, length=len(data))
+
+
 
 app.debug = True
 app.secret_key = "aidjasdijasldj"
