@@ -84,5 +84,5 @@ def analyzeTrade(year, month, day, ticker):
     data["CumulativeResiduals"] = data["Residuals"].cumsum()
     model = sm.OLS(data["CumulativeResiduals"], sm.add_constant(data["Event"])).fit()
 
-    return model.summary(), list(data.index), data["CumulativeResiduals"]
+    return model.summary(), day, data["CumulativeResiduals"]
 

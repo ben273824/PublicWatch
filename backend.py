@@ -9,6 +9,7 @@ app = Flask(__name__, template_folder="templates", static_folder="static")
 @app.route("/", methods=["GET", "POST"])
 def home():
     if request.method == "POST":
+        session.clear()
         fname = request.form.get("fname")
         lname = request.form.get("lname")
         startDate = request.form.get("startDate")
@@ -54,7 +55,7 @@ def analysis(i):
     for i in range(len(y)):
         dict = {"x":i, "y":y.iloc[i]}
         data.append(dict)
-    return render_template("analysis.html", points=data, length=len(data))
+    return render_template("analysis.html", points=data, length=len(data), tradeDay = x)
 
 
 
