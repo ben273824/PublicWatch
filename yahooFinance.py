@@ -26,7 +26,7 @@ def analyzeTrade(year, month, day, ticker):
     tradeDate = datetime.datetime(int(date[0]),int(date[1]), int(date[2]))
     tradeDate = int(time.mktime(tradeDate.timetuple()))
     startDate = datetime.datetime.fromtimestamp(tradeDate - 13000000).strftime("%Y-%m-%d")
-    endDate = datetime.datetime.fromtimestamp(tradeDate  + 2900000).strftime("%Y-%m-%d")
+    endDate = datetime.datetime.fromtimestamp(tradeDate  + 13000000).strftime("%Y-%m-%d")
 
     for i in range(len(stocks)):
         url = "https://finance.yahoo.com/quote/{}/history?p={}".format(stocks[i], stocks[i])
@@ -84,5 +84,4 @@ def analyzeTrade(year, month, day, ticker):
     data["CumulativeResiduals"] = data["Residuals"].cumsum()
     model = sm.OLS(data["CumulativeResiduals"], sm.add_constant(data["Event"])).fit()
 
-    return model.summary(), day, data["CumulativeResiduals"]
-
+    return model, day, data["CumulativeResiduals"]

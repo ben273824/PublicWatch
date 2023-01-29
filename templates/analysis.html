@@ -6,24 +6,52 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Public Watch - Analysis</title>
     <link rel="icon" type = "image/png" href = "../static/ScalesofJustice.png">
+    <link rel="stylesheet" href="../static/css/analysis.css">
 </head>
 <body>
     <canvas id="chart" length=1000 width = 1000></canvas>
-    <p>Traded at x={{tradeDay}}</p>
+    <p>{{name}} executed a {{type}} of {{ticker}} on {{tradeDate}}.</p>
+    <table>
+        <thead>
+            <td>Parameter</td>
+            <td>Coefficient</td>
+            <td>Standard Error</td>
+            <td>t</td>
+            <td>P>|t|</td>
+        </thead>
+        <tr>
+            <td>Constant</td>
+            <td>{{"{:.4f}".format(model.params[0])}}</td>
+            <td>{{"{:.4f}".format(model.bse[0])}}</td>
+            <td>{{"{:.4f}".format(model.params[0]/model.bse[0])}}</td>
+            <td>{{"{:.4f}".format(model.pvalues[0])}}</td>
+        </tr>
+        <tr>
+            <td>Event</td>
+            <td>{{"{:.4f}".format(model.params[1])}}</td>
+            <td>{{"{:.4f}".format(model.bse[1])}}</td>
+            <td>{{"{:.4f}".format(model.params[1]/model.bse[1])}}</td>
+            <td>{{"{:.4f}".format(model.pvalues[1])}}</td>
+        </tr>
+    </table>
 </body>
 {% block javascript %}
 <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
 <script>
-    datas = JSON.parse('{{points | tojson | safe}}')
+    const datasBefore = JSON.parse('{{points[:tradeDay] | tojson | safe}}')
+    const datasAfter = JSON.parse('{{points[tradeDay:] | tojson | safe}}')
     const ctx = document.getElementById("chart")
     new Chart(ctx, {
         type: "scatter", 
         data: {
             datasets: [{
-                label: "Cumulative Returns", 
-                data: datas,
-                backgroundColor: "rgb(255,99,132)"
-            }]
+                label: "Cumulative residuals before trade", 
+                data: datasBefore,
+                backgroundColor: "rgb(0,0,255)"
+            }, 
+                {label: "Cumulative residuals after trade", 
+                data: datasAfter,
+                backgroundColor: "rgb(255,99,132)"}]
         }, 
 
         options: {

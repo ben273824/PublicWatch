@@ -1,15 +1,18 @@
-from flask import Flask, render_template, request, session, redirect, url_for, jsonify
+from flask import Flask, render_template, request, redirect, url_for, jsonify, session
+from flask_session import Session
 from SenateStocks import getTrades
 from yahooFinance import analyzeTrade
 import pandas as pd
 import json
 
 app = Flask(__name__, template_folder="templates", static_folder="static")
+app.config["SESSION_PERMANENT"] = False
+app.config["SESSION_TYPE"] = "filesystem"
+Session(app)
 
 @app.route("/", methods=["GET", "POST"])
 def home():
     if request.method == "POST":
-        session.clear()
         fname = request.form.get("fname")
         lname = request.form.get("lname")
         startDate = request.form.get("startDate")
@@ -50,12 +53,14 @@ def analysis(i):
     month = stocks["TransactionDate"][i][:2]
     day = stocks["TransactionDate"][i][3:5]
     ticker = stocks["Ticker"][i]
-    summary, x, y = analyzeTrade(year, month, day, ticker)
+    model, x, y = analyzeTrade(year, month, day, ticker)
     data = []
-    for i in range(len(y)):
-        dict = {"x":i, "y":y.iloc[i]}
+    for j in range(len(y)):
+        dict = {"x":j, "y":y.iloc[j]}
         data.append(dict)
-    return render_template("analysis.html", points=data, length=len(data), tradeDay = x)
+    return render_template("analysis.html", points=data, length=len(data), tradeDay = x,
+    tradeDate = "{}-{}-{}".format(year, month, day), name = stocks["FirstName"][i] + " " + stocks["LastName"][i], 
+    type=stocks["TransactionType"][i], ticker=ticker, model= model)
 
 
 
